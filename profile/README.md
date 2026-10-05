@@ -1,14 +1,15 @@
 <div align="center">
-  <!-- Reemplaza con tu logo animado (.gif) o estático (.png) subido al repositorio -->
-  <img src="logo-glemn-animado.gif" alt="Logo GLEMN" width="150" />
+  <!-- Logo animado de la empresa (Debes subir logo-animado.gif al repo) -->
+  <img src="logo-animado.gif" alt="Logo GLEMN" width="180" />
   
   <h1>🚀 GLEMN | Desarrollo Web Profesional</h1>
   
-  <!-- Subtítulo animado (efecto máquina de escribir) -->
+  <!-- Animación de texto tipo máquina de escribir (Funciona automáticamente vía enlace) -->
   <a href="https://glemn.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Construimos+experiencias+digitales;Desarrollo+Web+a+medida;Diseño+UI%2FUX+que+impacta" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Construimos+experiencias+digitales;Desarrollo+Web+a+medida;Diseño+UI%2FUX+que+impacta" alt="Animación de Servicios GLEMN" />
   </a>
   <br/>
+  
   <p>
     <a href="https://glemn.vercel.app/">
       <img src="https://img.shields.io/badge/Status-Disponible_para_nuevos_proyectos-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
@@ -26,7 +27,7 @@ Trabajamos como aliados estratégicos asegurando:
 - 🔄 **Metodologías ágiles** y entregas iterativas.
 - 🗣️ **Comunicación** constante y transparente.
 - 💻 **Código limpio** y escalable acorde a estándares.
-- ✨ Compromiso absoluto con cada detalle.
+- ✨ **Compromiso absoluto** con cada detalle.
 
 ---
 
@@ -62,20 +63,27 @@ Trabajamos como aliados estratégicos asegurando:
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Demo (GIF) | Tecnologías |
+<!-- Se utilizan etiquetas <img> HTML para soportar GIFs correctamente y controlar su ancho -->
+| Proyecto | Demo | Tecnologías |
 | :--- | :--- | :--- |
-| **🏋️ GYMMate** <br/> Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | <img src="gymmate-demo.gif" alt="Demo GYMMate" width="250"/> | `TypeScript` `React`<br>`PostgreSQL` `Tailwind` |
-| **🍬 AmargoYDulce** <br/> E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | <img src="amargoydulce-demo.gif" alt="Demo AmargoYDulce" width="250"/> | `Next.js` `Strapi`<br>`Supabase` `Docker` |
-| **📊 Project Flow** <br/> Plataforma de gestión de proyectos diseñada para equipos que buscan optimizar su flujo de trabajo. | <img src="projectflow-demo.gif" alt="Demo Project Flow" width="250"/> | `Next.js` `Supabase`<br>`Tailwind` `Prisma` |
+| **🏋️ GYMMate** <br/> Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | <img src="gymmate.gif" alt="GIF GYMMate" width="280"/> | `TypeScript` `React`<br>`PostgreSQL` `Tailwind` |
+| **🍬 AmargoYDulce** <br/> E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | <img src="amargoydulce.gif" alt="GIF AmargoYDulce" width="280"/> | `Next.js` `Strapi`<br>`Supabase` `Docker` |
+| **📊 Project Flow** <br/> Plataforma de gestión de proyectos diseñada para equipos que buscan optimizar su flujo de trabajo. | <img src="projectflow.gif" alt="GIF Project Flow" width="280"/> | `Next.js` `Supabase`<br>`Tailwind` `Prisma` |
 
 ---
 
 ## 👥 Nuestro Equipo
 
-<!-- Reemplaza los archivos .jpg por las fotos reales de cada integrante subidas al repositorio -->
-| <img src="milton.jpg" width="100" style="border-radius:50%;"/> | <img src="gonzalo.jpg" width="100" style="border-radius:50%;"/> | <img src="lucas.jpg" width="100" style="border-radius:50%;"/> | <img src="nahuel.jpg" width="100" style="border-radius:50%;"/> |
-| :---: | :---: | :---: | :---: |
-| **Milton Ibarra** <br/> *Backend Developer* | **Gonzalo Vaschchuk** <br/> *Full Stack Developer* | **Lucas Tabacchi** <br/> *Frontend Developer* | **Nahuel Godoy** <br/> *UI/UX Designer* |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="milton.jpg" width="110" style="border-radius:50%;"/><br/><b>Milton Ibarra</b><br/><i>Backend Developer</i></td>
+      <td align="center"><img src="gonzalo.jpg" width="110" style="border-radius:50%;"/><br/><b>Gonzalo Vaschchuk</b><br/><i>Full Stack Developer</i></td>
+      <td align="center"><img src="lucas.jpg" width="110" style="border-radius:50%;"/><br/><b>Lucas Tabacchi</b><br/><i>Frontend Developer</i></td>
+      <td align="center"><img src="nahuel.jpg" width="110" style="border-radius:50%;"/><br/><b>Nahuel Godoy</b><br/><i>UI/UX Designer</i></td>
+    </tr>
+  </table>
+</div>
 
 ---
 

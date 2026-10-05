@@ -1,15 +1,6 @@
 <div align="center">
-  <!-- Logo animado de la empresa (Debes subir logo-animado.gif al repo) -->
-  <img src="logo-animado.gif" alt="Logo GLEMN" width="180" />
-  
   <h1>🚀 GLEMN | Desarrollo Web Profesional</h1>
-  
-  <!-- Animación de texto tipo máquina de escribir (Funciona automáticamente vía enlace) -->
-  <a href="https://glemn.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Construimos+experiencias+digitales;Desarrollo+Web+a+medida;Diseño+UI%2FUX+que+impacta" alt="Animación de Servicios GLEMN" />
-  </a>
-  <br/>
-  
+  <p><b>Construimos experiencias digitales excepcionales</b></p>
   <p>
     <a href="https://glemn.vercel.app/">
       <img src="https://img.shields.io/badge/Status-Disponible_para_nuevos_proyectos-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
@@ -27,7 +18,7 @@ Trabajamos como aliados estratégicos asegurando:
 - 🔄 **Metodologías ágiles** y entregas iterativas.
 - 🗣️ **Comunicación** constante y transparente.
 - 💻 **Código limpio** y escalable acorde a estándares.
-- ✨ **Compromiso absoluto** con cada detalle.
+- ✨ Compromiso absoluto con cada detalle.
 
 ---
 
@@ -63,27 +54,22 @@ Trabajamos como aliados estratégicos asegurando:
 
 ## 📂 Proyectos Destacados
 
-<!-- Se utilizan etiquetas <img> HTML para soportar GIFs correctamente y controlar su ancho -->
-| Proyecto | Demo | Tecnologías |
+| Proyecto | Descripción | Tecnologías |
 | :--- | :--- | :--- |
-| **🏋️ GYMMate** <br/> Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | <img src="gymmate.gif" alt="GIF GYMMate" width="280"/> | `TypeScript` `React`<br>`PostgreSQL` `Tailwind` |
-| **🍬 AmargoYDulce** <br/> E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | <img src="amargoydulce.gif" alt="GIF AmargoYDulce" width="280"/> | `Next.js` `Strapi`<br>`Supabase` `Docker` |
-| **📊 Project Flow** <br/> Plataforma de gestión de proyectos diseñada para equipos que buscan optimizar su flujo de trabajo. | <img src="projectflow.gif" alt="GIF Project Flow" width="280"/> | `Next.js` `Supabase`<br>`Tailwind` `Prisma` |
+| **🏋️ GYMMate** | Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | `TypeScript` `React` `PostgreSQL` `Tailwind` `Vite` |
+| **🍬 AmargoYDulce** | E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | `Next.js` `Strapi` `Supabase` `Tailwind` `Docker` |
+| **📊 Project Flow** | Plataforma de gestión de proyectos diseñada para equipos colaborativos buscando optimizar su flujo. | `Next.js` `Supabase` `Tailwind` `Prisma` |
 
 ---
 
 ## 👥 Nuestro Equipo
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="milton.jpg" width="110" style="border-radius:50%;"/><br/><b>Milton Ibarra</b><br/><i>Backend Developer</i></td>
-      <td align="center"><img src="gonzalo.jpg" width="110" style="border-radius:50%;"/><br/><b>Gonzalo Vaschchuk</b><br/><i>Full Stack Developer</i></td>
-      <td align="center"><img src="lucas.jpg" width="110" style="border-radius:50%;"/><br/><b>Lucas Tabacchi</b><br/><i>Frontend Developer</i></td>
-      <td align="center"><img src="nahuel.jpg" width="110" style="border-radius:50%;"/><br/><b>Nahuel Godoy</b><br/><i>UI/UX Designer</i></td>
-    </tr>
-  </table>
-</div>
+Conoce a los profesionales apasionados por la tecnología detrás de cada proyecto:
+
+- 🧑‍💻 **Milton Ibarra** - *Backend Developer* 
+- 👨‍💻 **Gonzalo Vaschchuk** - *Full Stack Developer* 
+- 👨‍💻 **Lucas Tabacchi** - *Frontend Developer* 
+- 🎨 **Nahuel Godoy** - *UI/UX Designer* 
 
 ---
 

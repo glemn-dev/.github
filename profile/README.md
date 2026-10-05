@@ -1,6 +1,14 @@
 <div align="center">
+  <!-- Reemplaza con tu logo animado (.gif) o estático (.png) subido al repositorio -->
+  <img src="logo-glemn-animado.gif" alt="Logo GLEMN" width="150" />
+  
   <h1>🚀 GLEMN | Desarrollo Web Profesional</h1>
-  <p><b>Construimos experiencias digitales excepcionales</b></p>
+  
+  <!-- Subtítulo animado (efecto máquina de escribir) -->
+  <a href="https://glemn.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Construimos+experiencias+digitales;Desarrollo+Web+a+medida;Diseño+UI%2FUX+que+impacta" alt="Typing SVG" />
+  </a>
+  <br/>
   <p>
     <a href="https://glemn.vercel.app/">
       <img src="https://img.shields.io/badge/Status-Disponible_para_nuevos_proyectos-10B981?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
@@ -54,22 +62,20 @@ Trabajamos como aliados estratégicos asegurando:
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
+| Proyecto | Demo (GIF) | Tecnologías |
 | :--- | :--- | :--- |
-| **🏋️ GYMMate** | Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | `TypeScript` `React` `PostgreSQL` `Tailwind` `Vite` |
-| **🍬 AmargoYDulce** | E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | `Next.js` `Strapi` `Supabase` `Tailwind` `Docker` |
-| **📊 Project Flow** | Plataforma de gestión de proyectos diseñada para equipos colaborativos buscando optimizar su flujo. | `Next.js` `Supabase` `Tailwind` `Prisma` |
+| **🏋️ GYMMate** <br/> Software de gestión integral para gimnasios con accesos QR, seguimiento de rutinas y métricas físicas. | <img src="gymmate-demo.gif" alt="Demo GYMMate" width="250"/> | `TypeScript` `React`<br>`PostgreSQL` `Tailwind` |
+| **🍬 AmargoYDulce** <br/> E-commerce de golosinas con diseño moderno, carrito de compras y gestión de pedidos segura. | <img src="amargoydulce-demo.gif" alt="Demo AmargoYDulce" width="250"/> | `Next.js` `Strapi`<br>`Supabase` `Docker` |
+| **📊 Project Flow** <br/> Plataforma de gestión de proyectos diseñada para equipos que buscan optimizar su flujo de trabajo. | <img src="projectflow-demo.gif" alt="Demo Project Flow" width="250"/> | `Next.js` `Supabase`<br>`Tailwind` `Prisma` |
 
 ---
 
 ## 👥 Nuestro Equipo
 
-Conoce a los profesionales apasionados por la tecnología detrás de cada proyecto:
-
-- 🧑‍💻 **Milton Ibarra** - *Backend Developer* 
-- 👨‍💻 **Gonzalo Vaschchuk** - *Full Stack Developer* 
-- 👨‍💻 **Lucas Tabacchi** - *Frontend Developer* 
-- 🎨 **Nahuel Godoy** - *UI/UX Designer* 
+<!-- Reemplaza los archivos .jpg por las fotos reales de cada integrante subidas al repositorio -->
+| <img src="milton.jpg" width="100" style="border-radius:50%;"/> | <img src="gonzalo.jpg" width="100" style="border-radius:50%;"/> | <img src="lucas.jpg" width="100" style="border-radius:50%;"/> | <img src="nahuel.jpg" width="100" style="border-radius:50%;"/> |
+| :---: | :---: | :---: | :---: |
+| **Milton Ibarra** <br/> *Backend Developer* | **Gonzalo Vaschchuk** <br/> *Full Stack Developer* | **Lucas Tabacchi** <br/> *Frontend Developer* | **Nahuel Godoy** <br/> *UI/UX Designer* |
 
 ---
 
